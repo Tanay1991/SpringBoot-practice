@@ -1,4 +1,4 @@
-package com.spring.practices;
+package com.spring.practices.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
